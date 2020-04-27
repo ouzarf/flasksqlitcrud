@@ -1,0 +1,6 @@
+(base) MacBook-de-Wiame:flask-sqlite3-crud-master wiameouzarf$ sqlite3 database/tasks.db
+SQLite version 3.30.0 2019-10-04 15:03:17
+Enter ".help" for usage hints.
+sqlite> .databases
+main: /Users/wiameouzarf/Downloads/flask-sqlite3-crud-master/database/task.db
+sqlite> .exit

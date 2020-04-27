@@ -1,2 +1,2 @@
-# flasksqlitcrud
- dbsqlite
+# Screenshot
+![](./docs/screenshot.png)
